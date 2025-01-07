@@ -20,7 +20,7 @@
         }
         .header {
             height: 120px;
-            background: url('/image/nindam_head_banner.jpg') no-repeat center center;
+            background: url('nindam_head_banner.jpg') no-repeat center center;
             background-size: cover;
         }
         .title {
